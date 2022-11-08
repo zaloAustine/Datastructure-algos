@@ -1,7 +1,5 @@
 fun main(rgs: Array<String>) {
     reverseArray(arrayOf(2, 3, 6, 4, 776, 55, 435, 46, 5, 7, 45, 7))
-    //reverseArray2(arrayOf(2, 3, 6, 4, 776, 55, 435, 46, 5, 7, 45, 7))
-
 }
 
 
